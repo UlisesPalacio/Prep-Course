@@ -110,9 +110,15 @@ Son expresiones que resuelven a un valor **booleano**. Por ejemplo:
 false;
 ```
 
-## Expresiones primarias
+## Expresi9'ones primarias
 
-Son expresiones que se escriben por si mismas, y no utilizan ningún operador. Incluyen a valores literales, uso de variables, y algunos keywords de JS. Por ejemplo:
+
+
+
+
+
+Son expresi
+ones que se escriben por si mismas, y no utilizan ningún operador. Incluyen a valores literales, uso de variables, y algunos keywords de JS. Por ejemplo:
 
 ```js
 'hola';
